@@ -176,6 +176,4 @@ Evoluções previstas:
 ------------------------------------------------------------------------
 
 ## 👩‍💻 Autora
-
-Mariana Oliveira\
 GitHub: https://github.com/02kaede
