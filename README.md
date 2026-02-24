@@ -175,5 +175,5 @@ Evoluções previstas:
 
 ------------------------------------------------------------------------
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 GitHub: https://github.com/02kaede
